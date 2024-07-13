@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, my name is Denny Lungu and I am a developer from Italy.
+Hi, my name is Denny Lungu and I am a developer from Italy with a preference for backend development.
 
 <!--
 **d-lungu/d-lungu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
